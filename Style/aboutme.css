@@ -63,3 +63,6 @@ img{
   color: white;
   text-align: center;
 }
+.text-muted {
+    color: #ffffff!important;
+}
